@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "No print order ID provided."
+msgstr ""
+
+msgid "Vista previa del pedido"
+msgstr ""
+
+msgid "Vista previa de PDF"
+msgstr ""
+
+msgid "Acceso denegado"
+msgstr ""
+
+msgid "Panel de pedidos"
+msgstr ""
+
+msgid "Pedidos de impresión"
+msgstr ""
+
+msgid "Título"
+msgstr ""
+
+msgid "Fecha"
+msgstr ""
+
+msgid "Ver PDF"
+msgstr ""
+
+msgid "Sin pedidos disponibles"
+msgstr ""
+
+msgid "No hay datos"
+msgstr ""
+
+msgid "Plantilla"
+msgstr ""
+
+msgid "Permisos"
+msgstr ""
+

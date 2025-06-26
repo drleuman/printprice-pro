@@ -1,0 +1,51 @@
+{
+  "Calculation16": [
+    {
+      "Print House": "Neo ALL 2015",
+      "Total Cost": 2000,
+      "Estimated Delivery Time": "10 business days"
+    },
+    {
+      "Print House": "DI 2016",
+      "Total Cost": 2200,
+      "Estimated Delivery Time": "13 business days"
+    },
+    {
+      "Print House": "RRD 2015",
+      "Total Cost": 2500,
+      "Estimated Delivery Time": "16 business days"
+    },
+    {
+      "Print House": "Poz 2012 10d",
+      "Total Cost": 1950,
+      "Estimated Delivery Time": "11 business days"
+    },
+    {
+      "Print House": "Neo web 15",
+      "Total Cost": 2300,
+      "Estimated Delivery Time": "14 business days"
+    },
+    {
+      "Print House": "Niet P",
+      "Total Cost": 1800,
+      "Estimated Delivery Time": "10 business days"
+    }
+  ],
+  "Calculation32": [
+    {
+      "Print House": "Adv 2025 (Printer A)",
+      "Total Cost": 2100,
+      "Estimated Delivery Time": "14 business days"
+    },
+    {
+      "Print House": "Dar 2025 (Printer B)",
+      "Total Cost": 1890,
+      "Estimated Delivery Time": "12 business days"
+    },
+    {
+      "Print House": "Poz 2025 (Printer C)",
+      "Total Cost": 1920,
+      "Estimated Delivery Time": "15 business days"
+    }
+  ]
+}
