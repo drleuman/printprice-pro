@@ -1,40 +1,47 @@
 <?php
-// Mostrar datos del pedido en el carrito y checkout
-add_filter('woocommerce_get_item_data', function ($item_data, $cart_item) {
-    if (isset($cart_item['print_order_data']) && is_array($cart_item['print_order_data'])) {
-        foreach ($cart_item['print_order_data'] as $key => $value) {
-            $item_data[] = [
-                'key'   => esc_html(ucwords(str_replace('_', ' ', $key))),
-                'value' => esc_html(is_array($value) ? implode(', ', $value) : $value)
-            ];
+defined('ABSPATH') || exit;
+
+// Set custom price
+add_action('woocommerce_before_calculate_totals', function ($cart) {
+    if (is_admin() && !defined('DOING_AJAX')) return;
+
+    foreach ($cart->get_cart() as $cart_item_key => $cart_item) {
+        if (isset($cart_item['custom_price'])) {
+            $cart_item['data']->set_price(floatval($cart_item['custom_price']));
         }
     }
-    return $item_data;
-}, 10, 2);
+});
+add_action('woocommerce_checkout_create_order', function ($order, $data) {
+    if (!WC()->cart) return;
 
-// Guardar datos personalizados en la orden
-add_action('woocommerce_add_order_item_meta', function ($item_id, $values, $cart_item_key) {
-    if (!empty($values['print_order_data']) && is_array($values['print_order_data'])) {
-        foreach ($values['print_order_data'] as $key => $value) {
-            wc_add_order_item_meta($item_id, esc_html($key), esc_html(is_array($value) ? implode(', ', $value) : $value));
-        }
-    }
-}, 10, 3);
+    foreach (WC()->cart->get_cart() as $cart_item) {
+        if (!isset($cart_item['print_order_id'])) continue;
 
+        $print_order_id = $cart_item['print_order_id'];
+        $fields = [
+            'copies',
+            'total_page_count',
+            'book_size',
+            'interior_print',
+            'cover_print',
+            'paper_weight_interior',
+            'paper_weight_cover',
+            'binding_method',
+            'finishing_options',
+            'delivery_country',
+            'selected_print_house',
+            'selected_print_house_total_cost',
+            'selected_print_house_estimated_delivery_time',
+        ];
 
-// Adjuntar PDF generado al email de nuevo pedido
-add_filter('woocommerce_email_attachments', function($attachments, $email_id, $order, $email) {
-    if ($email_id === 'new_order' && $order instanceof WC_Order) {
-        foreach ($order->get_items() as $item) {
-            $print_order_id = $item->get_meta('print_order_id');
-            if ($print_order_id) {
-                $upload_dir = wp_upload_dir();
-                $pdf_path = $upload_dir['basedir'] . '/print_orders/print_order_' . $print_order_id . '.pdf';
-                if (file_exists($pdf_path)) {
-                    $attachments[] = $pdf_path;
-                }
+        foreach ($fields as $field) {
+            $value = get_field($field, $print_order_id);
+            if ($value) {
+                $order->add_meta_data($field, $value);
             }
         }
+
+        // Asocia el ID del print_order al pedido
+        $order->add_meta_data('print_order_id', $print_order_id);
     }
-    return $attachments;
-}, 10, 4);
+}, 10, 2);
