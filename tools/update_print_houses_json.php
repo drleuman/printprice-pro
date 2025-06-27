@@ -21,10 +21,10 @@ require_once __DIR__ . '/../includes/api/functions.php';
 
 // Google Sheets configuration
 $sheet_ids = [
-    'Calculation16' => '',
-    'Calculation32' => '',
+    'SheetName1' => 'key',
+    'SheetName2' => 'key',
 ];
-$api_key = '';
+$api_key = 'key';
 
 // Output path for the JSON file
 $json_output_path = WP_CONTENT_DIR . '/plugins/print-price-pro-corrected/data/print-houses.json';
