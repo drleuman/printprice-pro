@@ -1,31 +1,31 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const nextButton = document.querySelector("#next-button");
-  if (!nextButton) return;
+jQuery(document).ready(function ($) {
+    $('#ppp-add-to-cart').on('click', function (e) {
+        e.preventDefault();
 
-  nextButton.addEventListener("click", function () {
-    const data = window.last_ai_response;
-    if (!data || typeof data !== "object") {
-      alert("Error: no AI response found. Please complete the assistant.");
-      return;
-    }
+        const orderId = $(this).data('order-id');
+        const price = $(this).data('price');
+        const productId = 989377; // ID de tu producto base "AI Print Order"
 
-    const form = document.createElement("form");
-    form.method = "POST";
-    form.action = "/seleccion-imprenta/";
+        if (!orderId || !price || !productId) {
+            alert('❌ Missing order ID, price or product ID.');
+            return;
+        }
 
-    Object.entries(data).forEach(([key, value]) => {
-      try {
-        const input = document.createElement("input");
-        input.type = "hidden";
-        input.name = key;
-        input.value = typeof value === "object" ? JSON.stringify(value) : value;
-        form.appendChild(input);
-      } catch (err) {
-        console.error("Failed to serialize value for key:", key, err);
-      }
+        $.ajax({
+            url: '/wp-json/ppp/v1/add-to-cart',
+            method: 'POST',
+            data: JSON.stringify({
+                print_order_id: orderId,
+                price: parseFloat(price),
+                product_id: productId
+            }),
+            contentType: 'application/json',
+            success: function () {
+                window.location.href = '/cart';
+            },
+            error: function () {
+                alert('❌ Error adding to cart.');
+            }
+        });
     });
-
-    document.body.appendChild(form);
-    form.submit();
-  });
 });
