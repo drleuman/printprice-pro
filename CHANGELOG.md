@@ -1,13 +1,14 @@
-# Changelog
+# 📄 Changelog
 
-## [1.0] - 2025-06-26
+All notable changes to this project will be documented in this file.
+
+## [1.0.0] - 2025-06-26
+
 ### Added
-- Initial plugin fusion from `custom-print-data` and `print-house-pedido-editor`
-- Google Sheets API integration
-- AI Engine compatibility for chatbot-based orders
-- PDF generation using TCPDF
-- WooCommerce link with "AI Print Order" product
-- Admin CSV export with filters
-- ACF-based print order storage
-- Multilanguage support: en_US, fr_FR, de_DE, lt_LT
-
+- Fusion of `custom-print-data` and `print-house-pedido-editor` plugins
+- Google Sheets data sync
+- ACF fields auto-fill via AI assistant
+- PDF order summary generation using TCPDF
+- WooCommerce dynamic pricing integration
+- CSV export with filtering options (country, date)
+- Full i18n support (English, French, German, Lithuanian)
