@@ -1,0 +1,58 @@
+[
+    {
+        "sheet": "Calculation16",
+        "printer_name": "Poz 2012 10d",
+        "raw_entry": {
+            "": "",
+            "Max. bindformaat:": "Poz 2012 10d",
+            "0": "",
+            "Mijn zusje is een engeltje": " - THE NETHERLANDS",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        "detected_cost": null
+    },
+    {
+        "sheet": "Calculation16",
+        "printer_name": "Poz 2012 10d",
+        "raw_entry": {
+            "": "",
+            "Max. bindformaat:": "Poz 2012 10d",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        "detected_cost": null
+    },
+    {
+        "sheet": "Calculation16",
+        "printer_name": "Neo ALL 2015",
+        "raw_entry": {
+            "": "",
+            "Max. bindformaat:": "1,163",
+            "0": "Neo ALL 2015",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        "detected_cost": "1.163"
+    },
+    {
+        "sheet": "Calculation32",
+        "printer_name": "Neo ALL 2015",
+        "raw_entry": {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper prices",
+            "": "",
+            "0": "Neo ALL 2015",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        "detected_cost": null
+    }
+]

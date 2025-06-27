@@ -1,51 +1,2350 @@
 {
-  "Calculation16": [
-    {
-      "Print House": "Neo ALL 2015",
-      "Total Cost": 2000,
-      "Estimated Delivery Time": "10 business days"
-    },
-    {
-      "Print House": "DI 2016",
-      "Total Cost": 2200,
-      "Estimated Delivery Time": "13 business days"
-    },
-    {
-      "Print House": "RRD 2015",
-      "Total Cost": 2500,
-      "Estimated Delivery Time": "16 business days"
-    },
-    {
-      "Print House": "Poz 2012 10d",
-      "Total Cost": 1950,
-      "Estimated Delivery Time": "11 business days"
-    },
-    {
-      "Print House": "Neo web 15",
-      "Total Cost": 2300,
-      "Estimated Delivery Time": "14 business days"
-    },
-    {
-      "Print House": "Niet P",
-      "Total Cost": 1800,
-      "Estimated Delivery Time": "10 business days"
+    "Calculation16": [
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "Finidr",
+            "0": "Manual",
+            "Mijn zusje is een engeltje": "Mijn zusje is een engeltje",
+            "Interior": "Paper weight",
+            "Cover": "Paper weight",
+            "Endpapers": "Paper weight"
+        },
+        {
+            "": "0,576",
+            "Max. bindformaat:": "Graspo",
+            "0": "1",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "80",
+            "Cover": "120",
+            "Endpapers": "140"
+        },
+        {
+            "": "0,416",
+            "Max. bindformaat:": "Kopa",
+            "0": "2",
+            "Mijn zusje is een engeltje": "HBPR",
+            "Interior": "90",
+            "Cover": "240",
+            "Endpapers": "- user defined -"
+        },
+        {
+            "": "0,7344",
+            "Max. bindformaat:": "Balto",
+            "0": "3",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "100",
+            "Cover": "250",
+            "Endpapers": ""
+        },
+        {
+            "": "0,7344",
+            "Max. bindformaat:": "Totem",
+            "0": "4",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "115",
+            "Cover": "135",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "5",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "135",
+            "Cover": "280",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "6",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "150",
+            "Cover": "300",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "Mijn zusje is een engeltje",
+            "Interior": "- user defined -",
+            "Cover": "- user defined -",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "Specification of extras",
+            "0": "",
+            "Mijn zusje is een engeltje": "36 pages interior, 8 pages endpapers and 4 pages cover",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "Description",
+            "0": "",
+            "Mijn zusje is een engeltje": "240 x 240",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "0,416",
+            "Max. bindformaat:": "Codes",
+            "0": "1000",
+            "Mijn zusje is een engeltje": "400",
+            "Interior": "170",
+            "Cover": "135",
+            "Endpapers": "140"
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "Do not alter the line above!",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "4\/4 euro standard",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "4\/0 euro standard",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "4\/0 CMYK",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "Embossing",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "Matt or gloss lamination",
+            "Interior": "Woodfree Offset",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "Thread sewn hard cover with square spine, on 2,4 mm board",
+            "Interior": "Woodfree MC",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "LWC Royal Print",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "WF Writing Nordland",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "170 gsm mc silk (MultiArt Silk or MaxiSatin (Ecolabel))",
+            "Interior": "- other -",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "in mm",
+            "0": "",
+            "Mijn zusje is een engeltje": "135 gsm gloss mc",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "in mm",
+            "0": "",
+            "Mijn zusje is een engeltje": "140 gsm woodfree offset",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "in mm",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "manageable in carton boxes",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "Europallets or CB-pallets",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "Plan",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "Toeslag Publishers Services",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "approve digital",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "Poz 2012 10d",
+            "0": "",
+            "Mijn zusje is een engeltje": " - THE NETHERLANDS",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "509,75",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "155,00",
+            "0": "user?",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "72,00",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "1.095,78",
+            "0": "",
+            "Mijn zusje is een engeltje": "240 x 240",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,00",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "538,00",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "2.370,52",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "H&T band in the colour:?",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "3.818",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "754",
+            "0": "48",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "1.008",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "477",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "75",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "59",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "423,23",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "66,36",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "48,41",
+            "0": " ",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "186,84",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "Poz 2012 10d",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,800",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,888",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,970",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,000",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,700",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,888",
+            "0": "Bijzondere papiersoorten",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "1,163",
+            "0": "Neo ALL 2015",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,750",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "1,163",
+            "0": "0,800",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "1,163",
+            "0": "1,550",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,825",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,888",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "0,900",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "1,150",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "0,970",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "": "",
+            "Max. bindformaat:": "",
+            "0": "",
+            "Mijn zusje is een engeltje": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        }
+    ],
+    "Calculation32": [
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Manual",
+            "Vriendenklets 2025": "Vriendenklets 2025",
+            "Interior": "Paper weight",
+            "Cover": "Paper weight",
+            "Endpapers": "Paper weight"
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "One-, two- and full-colour interior",
+            "": "0,576",
+            "0": "1",
+            "Vriendenklets 2025": "",
+            "Interior": "80",
+            "Cover": "120",
+            "Endpapers": "140"
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "0,416",
+            "0": "2",
+            "Vriendenklets 2025": "Gezinnig ",
+            "Interior": "90",
+            "Cover": "240",
+            "Endpapers": "- user defined -"
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "ISBN\/Code",
+            "": "0,7344",
+            "0": "3",
+            "Vriendenklets 2025": "",
+            "Interior": "100",
+            "Cover": "250",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Title",
+            "": "0,5544",
+            "0": "4",
+            "Vriendenklets 2025": "",
+            "Interior": "115",
+            "Cover": "135",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Print run",
+            "": "",
+            "0": "5",
+            "Vriendenklets 2025": "",
+            "Interior": "135",
+            "Cover": "280",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Extend",
+            "": "",
+            "0": "6",
+            "Vriendenklets 2025": "978-90-",
+            "Interior": "150",
+            "Cover": "300",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "Vriendenklets",
+            "Interior": "- user defined -",
+            "Cover": "- user defined -",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Technical specifications for printing and binding",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "72 pages interior, 8 pages endpapers and 4 pages cover",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Printing interior",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "150 x 210",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "PMS in interior",
+            "": "0,416",
+            "0": "",
+            "Vriendenklets 2025": "3.000",
+            "Interior": "100",
+            "Cover": "135",
+            "Endpapers": "140"
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Printing cover",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "Do not alter the line above!",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Printing cover reverse",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "PMS on cover",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "4\/4 euro standard",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Printing endpapers",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "4\/0 euro standard",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Printing endpapers reverse",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "1\/0 PMS 185 (Red)",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Finishing cover",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Extra UV varnish",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "Matt lamination (SOFT TOUCH)",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Binding",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "Thread sewn hard cover with square spine, on 2 mm board",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper specifications: size",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "The standard sizes",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "100 gsm wood free offset Maestro Print (UPM Fine or Maestro offset or Serixo offset or Speed-E)",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper interior",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "135 gsm gloss mc",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper cover",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "140 gsm woodfree offset",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper endpapers",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper specifications: weight",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "manageable in carton boxes",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper interior",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "Europallets",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper cover",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper endpapers",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "Plan",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper specifications: type",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "16 julio 2025",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper interior",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "16 julio 2025",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper cover",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "approve digital",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper endpapers",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "13 agosto 2025",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "WEAF Magazijn, attn Gezinnig, Energieweg 43, 2404 HE Alphen aan den RIJN - THE NETHERLANDS",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "user?",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "PS-",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "H&T bands (n matching colour) ?????",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "480",
+            "Vriendenklets 2025": "Pumbo.nl BV",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "2017 Calculation32-V9",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Printing interior",
+            "": "",
+            "0": "Control-e",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Printing cover",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Printing endpapers",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Binding",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Extra costs",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Total production costs",
+            "": "",
+            "0": "32",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Adjusted production costs",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Percentage softcover",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Percentage hardcover",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Perctage 1\/1 & 2\/2 softcover",
+            "": "",
+            "0": "2017 Calculation32-V9",
+            "Vriendenklets 2025": "Poz 2016",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper consumption",
+            "": "",
+            "0": "Printing interior",
+            "Vriendenklets 2025": "1.339,75",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Sheets for interior",
+            "": "",
+            "0": "Printing cover",
+            "Vriendenklets 2025": "122,00",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Sheets for cover",
+            "": "",
+            "0": "Printing endpapers",
+            "Vriendenklets 2025": "0,00",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Sheets for endpapers",
+            "": "",
+            "0": "Binding",
+            "Vriendenklets 2025": "576,71",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Kilo's for interior",
+            "": "",
+            "0": "Extra costs",
+            "Vriendenklets 2025": "0,00",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Kilo's for cover",
+            "": "",
+            "0": "Paper",
+            "Vriendenklets 2025": "930,19",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Kilo's for endpapers",
+            "": "",
+            "0": "Total production costs",
+            "Vriendenklets 2025": "2.968,65",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Costs for interior",
+            "": "",
+            "0": "Adjusted production costs",
+            "Vriendenklets 2025": "3.223,96",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Costs for cover",
+            "": "",
+            "0": "Percentage softcover",
+            "Vriendenklets 2025": "109%",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Costs for endpapers",
+            "": "",
+            "0": "Percentage hardcover",
+            "Vriendenklets 2025": "108%",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Transport costs",
+            "": "",
+            "0": "Perctage 1\/1 & 2\/2 softcover",
+            "Vriendenklets 2025": "111%",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Paper consumption",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Sheets for interior",
+            "Vriendenklets 2025": "12.444",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Sheets for cover",
+            "Vriendenklets 2025": "627",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Sheets for endpapers",
+            "Vriendenklets 2025": "0",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Kilo's for interior",
+            "Vriendenklets 2025": "968",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Kilo's for cover",
+            "Vriendenklets 2025": "110",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Kilo's for endpapers",
+            "Vriendenklets 2025": "0",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Costs for interior",
+            "Vriendenklets 2025": "803,13",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Costs for cover",
+            "Vriendenklets 2025": "127,06",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Costs for endpapers",
+            "Vriendenklets 2025": "0,00",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Transport costs",
+            "Vriendenklets 2025": "194,21",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "PRE-CORONA",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper prices",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Woodfree Offset",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Woodfree MC",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Lux Cream",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Munken White\/Cream",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "- other -",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "Bijzondere papiersoorten",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Paper prices",
+            "": "",
+            "0": "Neo ALL 2015",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Kilo prices interior",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Woodfree Offset",
+            "": "",
+            "0": "0,800",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Woodfree MC",
+            "": "",
+            "0": "0,800",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Lux Cream",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Munken White\/Cream",
+            "": "",
+            "0": "1,610",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "- other -",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "- other -    ------------>",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Kilo prices cover",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Woodfree MC",
+            "": "",
+            "0": "0,925",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "ArtBoard single sided",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Woodfree Offset",
+            "": "",
+            "0": "0,970",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "WFMC UPM > 250 gsm",
+            "": "",
+            "0": "1,060",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "- other -",
+            "": "",
+            "0": "1,020",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "- other -    ------------>",
+            "": "",
+            "0": "1,150",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Kilo prices endpapers",
+            "": "",
+            "0": "1,260",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Woodfree Offset",
+            "": "",
+            "0": "0,900",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "Woodfree MC",
+            "": "",
+            "0": "1,300",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "- other -",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "- other -    ------------>",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "1,000",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "1,160",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        },
+        {
+            "Calculation tool  32-page sections      (up to the size of 17 x 24 cm)": "",
+            "": "",
+            "0": "",
+            "Vriendenklets 2025": "",
+            "Interior": "",
+            "Cover": "",
+            "Endpapers": ""
+        }
+    ],
+    "_meta": {
+        "updated_at": "2025-06-27T08:18:53+00:00",
+        "source": "update_print_houses_json.php"
     }
-  ],
-  "Calculation32": [
-    {
-      "Print House": "Adv 2025 (Printer A)",
-      "Total Cost": 2100,
-      "Estimated Delivery Time": "14 business days"
-    },
-    {
-      "Print House": "Dar 2025 (Printer B)",
-      "Total Cost": 1890,
-      "Estimated Delivery Time": "12 business days"
-    },
-    {
-      "Print House": "Poz 2025 (Printer C)",
-      "Total Cost": 1920,
-      "Estimated Delivery Time": "15 business days"
-    }
-  ]
 }
