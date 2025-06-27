@@ -21,10 +21,10 @@ require_once __DIR__ . '/../includes/api/functions.php';
 
 // Google Sheets configuration
 $sheet_ids = [
-    'Calculation16' => '1bRgqFMUy_q3z6UWz93u-2KtWJM_2sJ6Kyt6lDUGbFpw',
-    'Calculation32' => '1MvU22-zM21JYoTqq6U9bdoMwbcCu5bWh3k6O8l8JbwQ',
+    'Calculation16' => '',
+    'Calculation32' => '',
 ];
-$api_key = 'AIzaSyCFDTHb9fiNdiiAvBFe-qB49dVqtEF-CT4';
+$api_key = '';
 
 // Output path for the JSON file
 $json_output_path = WP_CONTENT_DIR . '/plugins/print-price-pro-corrected/data/print-houses.json';
