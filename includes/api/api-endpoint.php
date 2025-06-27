@@ -3,11 +3,11 @@
 if (!defined('ABSPATH')) exit;
 
 $sheet_ids = [
-    'Calculation16' => '',
-    'Calculation32' => ''
+    'Calculation16' => '1bRgqFMUy_q3z6UWz93u-2KtWJM_2sJ6Kyt6lDUGbFpw',
+    'Calculation32' => '1MvU22-zM21JYoTqq6U9bdoMwbcCu5bWh3k6O8l8JbwQ'
 ];
 
-$api_key = ';
+$api_key = 'AIzaSyCFDTHb9fiNdiiAvBFe-qB49dVqtEF-CT4';
 
 // --- GET: Buscar datos por imprenta específica ---
 if (isset($_GET['house']) && isset($_GET['file'])) {
